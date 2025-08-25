@@ -1,6 +1,7 @@
 title: "APC"
 description: "Our take on the Atari Punk Console (APC)."
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: amitmerchant1990/reverie
 plugins:
 - jekyll-remote-theme
 show_downloads: false
+google_analytics_ga4: G-TJRSWGLQDX
